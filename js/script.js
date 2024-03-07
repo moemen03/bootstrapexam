@@ -13,7 +13,7 @@ document.getElementById('gradeForm').addEventListener('submit', function(event) 
         "191900184": [10],
         "191900220": ["Absent"],
         "191900223": [10],
-        "191900249": ["Absent"],
+        "191900249": [10],
         "192000003": [10],
         "192000008": [10],
         "192000011": [9],
